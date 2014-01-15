@@ -1,1 +1,5 @@
-require "jekyll/foundation/configuration"
+require "jekyll"
+require "rugged"
+require "core_ext"
+require "foundation/version"
+require "foundation/configuration"
